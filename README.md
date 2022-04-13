@@ -14,6 +14,8 @@ Code written by **Dave Gray**
 
 This site uses fetch API and serverless functions to display random dad jokes. The jokes will refresh every three seconds.
 
+![Site Screenshot](/images/Site Screenshot.png)
+
 ### Academic Honesty
 
 **DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiarism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
