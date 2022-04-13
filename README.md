@@ -14,7 +14,7 @@ Code written by **Dave Gray**
 
 This site uses fetch API and serverless functions to display random dad jokes. The jokes will refresh every three seconds.
 
-![Site Screenshot](/images/Site Screenshot.png)
+![Screenshot](/images/Site Screenshot.png)
 
 ### Academic Honesty
 
